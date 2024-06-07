@@ -34,7 +34,7 @@ def solve_captcha(site_key, site_url, api_key):
         if result['status'] == 1:
             return result['request']
         elif result['request'] == 'CAPCHA_NOT_READY':
-            time.sleep(5)  # Wait for 5 seconds before retrying
+            time.sleep(5)
         else:
             print(f"Failed to get CAPTCHA solution. Error: {result['request']}")
             return None

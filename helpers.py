@@ -1,14 +1,13 @@
 import time
 import random
 import string
-import json
 import requests
 import logging
 
 def generate_unique_email():
     timestamp = int(time.time())
     random_str = ''.join(random.choices(string.ascii_lowercase + string.digits, k=6))
-    return f"{timestamp}{random_str}@bajerergodt.com"
+    return f"{timestamp}{random_str}@EMAIL_HERE.com"
 
 def send_request(method, url, **kwargs):
     try:

@@ -1,4 +1,4 @@
-API_KEY = '7ab48faa1d05e91dde011b0b03d93175'
+API_KEY = '2CAPTCHA-API-KEY'
 SITE_URL = 'https://game.scratcher.io/winawhopper/register'
 SITE_KEY = '6Le-W50UAAAAAKdxq73lhyctA52Pjy4h9laii4Tr'
 LOG_FILE = 'scratcher.log'

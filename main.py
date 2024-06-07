@@ -18,7 +18,7 @@ def register_user(session, token, cookies, captcha_solution):
     unique_email = generate_unique_email()
     json_data = {
         'token': token,
-        'full_name': 'bertram',
+        'full_name': 'Navn',
         'email': unique_email,
         'g-recaptcha-response': captcha_solution,
         'cb_konkurrencebetingelser': '1',
