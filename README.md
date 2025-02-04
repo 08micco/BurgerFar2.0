@@ -4,7 +4,7 @@ The contents of this repository are **for educational purposes only**. Any inapp
 
 # Purpose
 
-This project was created to automate a Burger King campaign as a demonstration and proof-of-concept. It automates the sign-up process and checks for potential wins. If CAPTCHA solving is required, you will need a **catchall** email address and a **2captcha** API token.
+This project was created to automate a Burger King campaign as a demonstration and proof-of-concept. It automates the sign-up process and checks for potential wins. You will need a **catchall** email address and if CAPTCHA solving is required, a **2captcha** API token.
 
 # Adaptation
 
