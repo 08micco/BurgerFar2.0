@@ -1,4 +1,11 @@
-The contents of this repository is for educational purposes only, and any inapporpiate and/or illegal use is prohibited and the repository owner is not responsible for any of this.
+# Disclaimer
 
-This was used to automate a Burger King campaign, to sign up, and check the win. It was only used for a proof of concept, and requires a catchall and a 2captcha api token, if solving a captcha is necessary.
-This project can work with all scratcher campaigns. Only the endpoints and signup data should be modified.
+The contents of this repository are **for educational purposes only**. Any inappropriate or illegal use is strictly prohibited, and the repository owner cannot be held responsible for any such misuse.
+
+# Purpose
+
+This project was created to automate a Burger King campaign as a demonstration and proof-of-concept. It automates the sign-up process and checks for potential wins. If CAPTCHA solving is required, you will need a **catchall** email address and a **2captcha** API token.
+
+# Adaptation
+
+Although originally developed for a Burger King campaign, this repository can be adapted to any Scratcher campaign. Simply update the relevant **endpoints** and **signup data** to suit your needs.
